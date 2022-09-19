@@ -1,1 +1,41 @@
 
+
+  body {
+        font-family: 'Anonymous Pro', Monospace;
+        color: #413738;
+        text-align: center;
+
+ }
+
+      h1 {
+      font-family: 'Futura', sans-serif;
+      font-size: 50px;
+      color: #345231;
+      text-align: center;
+     }
+
+      h3 {
+        font-family: 'Anonymous Pro', Monospace;
+        color: #413738;
+        text-align: center
+
+      }
+      footer {background-color: #345231;}
+        h5 {
+          font-family: 'Anonymous Pro', Monospace;
+          color: #6F975D ;
+          text-align: center;
+         }
+
+      body { background-color: #F7F2E4
+      }
+
+
+    nav {
+      background-color: #E4CF96;
+      font-family: 'Anonymous Pro', Monospace;
+      text-align: left;}
+
+
+    a {
+      color: #6F975D;}

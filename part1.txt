@@ -2,17 +2,7 @@ http://www.csszengarden.com/220/
 
 <a href="/examples/style.css" title="This page's sample CSS, the file you may modify.">css file</a>
 
-a:after {
-    content: "";
-    display: block;
-    background: #a28351;
-    height: 2px;
-    width: 100%;
-    position: absolute;
-    bottom: -0.2em;
-    left: 0;
-    opacity: 0;
-    transition: all 0.25s linear;
-    -moz-transition: all 0.25s linear;
-    -webkit-transition: all 0.25s linear;
-    -o-transition: all 0.25s linear;
+<abbr title="Cascading Style Sheets">CSS</abbr>
+
+<a href="http://www.mezzoblue.com/zengarden/submit/" title="Send in your own CSS file.">
+							Submit a Design						</a>
